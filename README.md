@@ -5,7 +5,6 @@
 ### About Me
 
 I am a passionate Data Analytics fresher currently pursuing a Master of Computer Applications (MCA) in Data Science. I enjoy working with data to discover patterns, trends, and insights that help organizations make informed business decisions.
-
 I have hands-on experience in data analysis, dashboard development, data cleaning, and reporting using tools such as Power BI, SQL, Excel, and Python.
 
 ---
@@ -39,24 +38,18 @@ I have hands-on experience in data analysis, dashboard development, data cleanin
 ## Education
 
 ### Master of Computer Applications (MCA) - Data Science
-
 **Dr. D. Y. Patil Technical Campus, Pune**
 2025 – 2027
 
 ### Bachelor of Computer Applications (BCA)
-
 **Ahmednagar College, Ahmednagar**
-2022 – 2025
-
-* Grade: A
+2022 – 2025 | Grade: A
 
 ### Higher Secondary Certificate (HSC)
-
 **New Arts, Commerce and Science College, Ahilyanagar**
 2020 – 2022
 
 ### Secondary School Certificate (SSC)
-
 **A.E.S. Bhingar High School, Ahilyanagar**
 2019 – 2020
 
@@ -89,6 +82,4 @@ I have hands-on experience in data analysis, dashboard development, data cleanin
 
 ---
 
-## Career Objective
 
-To build a successful career in Data Analytics by applying analytical and technical skills to solve real-world business problems while continuously learning and growing in the field of data science and technology.
