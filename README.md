@@ -8,7 +8,6 @@ I am a passionate Data Analytics fresher currently pursuing a Master of Computer
 I have hands-on experience in data analysis, dashboard development, data cleaning, and reporting using tools such as Power BI, SQL, Excel, and Python.
 
 ---
-
 ## Skills
 
 * MySQL
